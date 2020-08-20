@@ -9,8 +9,6 @@ I am a third year Ph.D. candidate in the [Department of Statistics and Operation
 
 I am currently the organizer of Professor Liu's group meeting website. In the group meeting, the group members present on their research progress or interesting recent papers. Please take a look at the [list of presentations]({{ site.url }}/group_meeting/2020Fall) in the current semester if you are interested.
 
-In my spare time, I enjoy working out and traveling. I also have a passion on playing the ukulele.
-
 ## Contact
 
 Hui Shen <br />
