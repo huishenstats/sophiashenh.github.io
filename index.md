@@ -4,7 +4,6 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo1.jpg" caption="" width="270px" align="right" %}
 
 I am a third year Ph.D. candidate in the [Department of Statistics and Operations Research](http://stat-or.unc.edu/) at [University of North Carolina at Chapel Hill](http://unc.edu/), under the supervision of Professor [Yufeng Liu](http://www.unc.edu/~yfliu/) and Professor [Shankar Bhamidi](edu). Prior to UNC, I received a B.S. in Statistics From Shanghai University of Finance and Economics, China in 2018. 
 
