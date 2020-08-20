@@ -1,6 +1,6 @@
-title: Peiyao Wang
-description: Peiyao Wang's webpage
-sourcecode: "https://github.com/peiyaow/peiyaow.github.io"
+title: Hui Shen
+description: Hui Shen's webpage
+sourcecode: "https://github.com/wsxsh123/wsxsh123.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
