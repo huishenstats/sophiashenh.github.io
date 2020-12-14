@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /group_meeting/2020Spring
-title: 2020 Spring
+permalink: /group_meeting/2021Spring
+title: 2021 Spring
 ---
 
 Location: GSB 4101 
