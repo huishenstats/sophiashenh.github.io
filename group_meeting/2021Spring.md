@@ -12,7 +12,7 @@ Zoom URL: [https://unc.zoom.us/j/99831055455](https://unc.zoom.us/j/99831055455)
 
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
-|  1/15 | Haixu |  |
+|  1/15 | Haixu | [Tree-based methods for individualized treatment regimes](https://academic.oup.com/biomet/article/102/3/501/2365724)  |
 | 1/22 | Daiqi | |
 | 1/29 | Hui | | 
 | 2/5 | Jose | |
