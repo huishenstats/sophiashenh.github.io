@@ -13,7 +13,7 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
 |  1/15 | Haixu | [Tree-based methods for individualized treatment regimes](https://academic.oup.com/biomet/article/102/3/501/2365724)  |
-| 1/22 | Daiqi | |
+| 1/22 | Daiqi | [Off-Policy Estimation of Long-Term Average Outcomes With Applications to Mobile Health](https://arxiv.org/pdf/1912.13088.pdf) |
 | 1/29 | Hui | | 
 | 2/5 | Jose | |
 | 2/12 | Weibin |  |
