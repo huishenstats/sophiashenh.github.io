@@ -20,14 +20,15 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 2/19 | Haodong | |
 | 2/26 | Yiyun | |
 | 3/5 | Haixu | |
-| 3/12 | Daiqi |
-| 3/19 | Hui |  |
-| 3/26 | Jose |  |
-| 4/9 | Weibin |  |
-| 4/16 | Haodong |  |
-| 4/23 | Yiyun |  |
-| 4/30 | Haixu |  |
-| 5/7 | Daiqi |  |
+| 3/12 | No Meeting | Wellness Day |
+| 3/19 | Daiqi |
+| 3/26 | Hui |  |
+| 4/2 | No Meeting | Good Friday |
+| 4/9 | Jose |  |
+| 4/16 | Weibin |  |
+| 4/23 | Haodong |  |
+| 4/30 | Yiyun |  |
+| 5/7 | Haixu |  |
 
 
 
