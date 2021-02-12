@@ -16,7 +16,7 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 1/22 | Daiqi | [Off-Policy Estimation of Long-Term Average Outcomes With Applications to Mobile Health](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2020.1807993?needAccess=true) |
 | 1/29 | Hui | [Fast community detection by SCORE](https://projecteuclid.org/download/pdfview_1/euclid.aos/1416322036) | 
 | 2/5 | Jose | [Nonparametric eigenvalue-regularized precision or covariance matrix estimator](https://projecteuclid.org/download/pdfview_1/euclid.aos/1460381682) |
-| 2/12 | Weibin | [Sparse high-dimensional regression: Exact scalable algorithms and phase transition] |
+| 2/12 | Weibin | [Sparse high-dimensional regression: Exact scalable algorithms and phase transition](https://wsxsh123.github.io/paper/Sparse%20high-dimensional%20regression%20-%20Exact%20scalable%20algorithms%20and%20phase%20transitions.pdf) |
 | 2/19 | Haodong | |
 | 2/26 | Yiyun | |
 | 3/5 | Haixu | |
