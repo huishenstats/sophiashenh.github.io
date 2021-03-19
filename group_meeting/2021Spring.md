@@ -21,7 +21,7 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 2/26 | Yiyun | [Robust Dynamic Assortment Optimization in the Presence of Outlier Customers](https://wsxsh123.github.io/paper/Robust%20Dynamic%20Assortment%20Optimization%20in%20the%20Presence%20of%20Outlier%20Customers.pdf) |
 | 3/5 | Haixu | [Balanced Policy Evaluation and Learning](https://wsxsh123.github.io/paper/Balanced%20Policy%20Evaluation%20and%20Learning.pdf) |
 | 3/12 | No Meeting | Wellness Day |
-| 3/19 | Daiqi |
+| 3/19 | Daiqi | [Statistical Inference for Online Decision Making via Stochastic Gradient Descent](https://arxiv.org/pdf/2010.07341.pdf) |
 | 3/26 | Hui |  |
 | 4/2 | No Meeting | Good Friday |
 | 4/9 | Jose |  |
