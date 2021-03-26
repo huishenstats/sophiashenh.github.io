@@ -22,10 +22,10 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 3/5 | Haixu | [Balanced Policy Evaluation and Learning](https://wsxsh123.github.io/paper/Balanced%20Policy%20Evaluation%20and%20Learning.pdf) |
 | 3/12 | No Meeting | Wellness Day |
 | 3/19 | Daiqi | [Statistical Inference for Online Decision Making via Stochastic Gradient Descent](https://arxiv.org/pdf/2010.07341.pdf) |
-| 3/26 | Hui |  |
+| 3/26 | Weibin | Defense Practice |
 | 4/2 | No Meeting | Good Friday |
 | 4/9 | Jose |  |
-| 4/16 | Weibin |  |
+| 4/16 | Hui |  |
 | 4/23 | Haodong |  |
 | 4/30 | Yiyun |  |
 | 5/7 | Haixu |  |
