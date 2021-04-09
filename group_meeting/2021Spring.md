@@ -24,7 +24,7 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 3/19 | Daiqi | [Statistical Inference for Online Decision Making via Stochastic Gradient Descent](https://arxiv.org/pdf/2010.07341.pdf) |
 | 3/26 | Weibin | Defense Practice |
 | 4/2 | No Meeting | Good Friday |
-| 4/9 | Jose |  |
+| 4/9 | Jose | [Statistical clustering of temporal networks through a dynamic stochastic block model](https://arxiv.org/pdf/1506.07464.pdf)  |
 | 4/16 | Hui |  |
 | 4/23 | Haodong |  |
 | 4/30 | Yiyun |  |
