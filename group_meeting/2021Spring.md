@@ -25,7 +25,7 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 3/26 | Weibin | Defense Practice |
 | 4/2 | No Meeting | Good Friday |
 | 4/9 | Jose | [Statistical clustering of temporal networks through a dynamic stochastic block model](https://arxiv.org/pdf/1506.07464.pdf)  |
-| 4/16 | Hui |  |
+| 4/16 | Hui | [High-dimensional changepoint estimation via sparse projection](https://arxiv.org/pdf/1606.06246.pdf) |
 | 4/23 | Haodong |  |
 | 4/30 | Yiyun |  |
 | 5/7 | Haixu |  |
