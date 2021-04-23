@@ -26,9 +26,9 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 4/2 | No Meeting | Good Friday |
 | 4/9 | Jose | [Statistical clustering of temporal networks through a dynamic stochastic block model](https://arxiv.org/pdf/1506.07464.pdf)  |
 | 4/16 | Hui | [High-dimensional changepoint estimation via sparse projection](https://arxiv.org/pdf/1606.06246.pdf) |
-| 4/23 | Haodong |  |
+| 4/23 | Haixu | [Near-optimal Individualized Treatment Recommendations](https://jmlr.org/papers/volume21/20-334/20-334.pdf)  |
 | 4/30 | Yiyun |  |
-| 5/7 | Haixu |  |
+| 5/7 | Haodong |  |
 
 
 
