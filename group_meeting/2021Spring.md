@@ -28,7 +28,7 @@ Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT0
 | 4/16 | Hui | [High-dimensional changepoint estimation via sparse projection](https://arxiv.org/pdf/1606.06246.pdf) |
 | 4/23 | Haixu | [Near-optimal Individualized Treatment Recommendations](https://jmlr.org/papers/volume21/20-334/20-334.pdf)  |
 | 4/30 | Yiyun | Proposal Practice |
-| 5/7 | Haodong |  |
+| 5/7 | Haodong | Proposal Practice |
 
 
 
