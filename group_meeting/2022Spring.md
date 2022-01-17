@@ -8,7 +8,7 @@ Location: GSB 4101
 
 Time: 3:00 - 4:00pm
 
-Zoom URL: [https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT09](https://unc.zoom.us/j/95241958757?pwd=Rk1VQnBJS2NTUXRyQTlMNXNkaEFGQT09) 
+Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz09](https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz09) 
 
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
