@@ -13,7 +13,7 @@ Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz0
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
 |  1/28 | Hui | [Strong Consistency, Graph Laplacians, and the Stochastic Block Model](https://www.jmlr.org/papers/volume22/20-391/20-391.pdf)  |
-|  2/4 | Haodong |   |
+|  2/4 | Haodong | [Graphical Models for Processing Missing Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1874961)  |
 |  2/11 | Haixu |   |
 |  2/18 | Jose |   |
 |  2/25 | Daiqi |   |
