@@ -17,7 +17,7 @@ Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz0
 |  2/11 | Haixu | [Fairness-Oriented Learning for Optimal Individualized Treatment Rules](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2008402)  |
 |  2/18 | Jose | [Distributed Estimation for Principal Component Analysis: An Enlarged Eigenspace Analysis](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1886937)  |
 |  2/25 | Daiqi | [Statistical inference of the value function for reinforcement learning in infinite-horizon settings](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12465)  |
-|  3/4 | Yiyun |   |
+|  3/4 | Yiyun |  [Multi-armed Bandit Requiring Monotone Arm Sequences](https://arxiv.org/pdf/2106.03790.pdf) |
 |  3/11 | Haixu |   |
 |  3/18 | Spring Break |   |
 |  3/25 | Daiqi |   |
