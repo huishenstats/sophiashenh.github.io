@@ -20,10 +20,10 @@ Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz0
 |  3/4 | Yiyun |  [Multi-armed Bandit Requiring Monotone Arm Sequences](https://arxiv.org/pdf/2106.03790.pdf) |
 |  3/11 | Haixu |  [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2027776) |
 |  3/18 | Spring Break |   |
-|  3/25 | Daiqi |   |
+|  3/25 | Haodong |   |
 |  4/1 | Hui |   |
 |  4/8 | Jose |   |
 |  4/15 | Holiday |   |
-|  4/22 | Haodong |   |
-|  4/29 | Yiyun |   |
+|  4/22 | Yiyun |   |
+|  4/29 | Daiqi |   |
 
