@@ -24,6 +24,6 @@ Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz0
 |  4/1 | Hui |   |
 |  4/8 | Jose |   |
 |  4/15 | Holiday |   |
-|  4/22 | Yiyun |   |
+|  4/22 | Yiyun  |   |
 |  4/29 | Daiqi |   |
 
