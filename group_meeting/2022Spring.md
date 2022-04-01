@@ -21,7 +21,7 @@ Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz0
 |  3/11 | Haixu |  [Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2027776) |
 |  3/18 | Spring Break |   |
 |  3/25 | Haodong | [To adjust or not to adjust? Estimating the average treatment effect in randomized experiments with missing covariates](https://arxiv.org/pdf/2108.00152.pdf)  |
-|  4/1 | Hui |   |
+|  4/1 | Hui |  Prelim Practice |
 |  4/8 | Jose |   |
 |  4/15 | Holiday |   |
 |  4/22 | Yiyun  |   |
