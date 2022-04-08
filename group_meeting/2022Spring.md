@@ -22,7 +22,7 @@ Zoom URL: [https://unc.zoom.us/j/95075723974?pwd=K3JTSExtb0h4U0RaZnJaVXNraGJtdz0
 |  3/18 | Spring Break |   |
 |  3/25 | Haodong | [To adjust or not to adjust? Estimating the average treatment effect in randomized experiments with missing covariates](https://arxiv.org/pdf/2108.00152.pdf)  |
 |  4/1 | Hui |  Prelim Practice |
-|  4/8 | Jose |   |
+|  4/8 | Jose |  Prelim Practice |
 |  4/15 | Holiday |   |
 |  4/22 | Yiyun  |   |
 |  4/29 | Daiqi |   |
