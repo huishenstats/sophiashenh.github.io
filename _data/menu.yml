@@ -18,4 +18,6 @@
     - subtitle: "2022 Spring"
       subhref: "/group_meeting/2022Spring"    
     - subtitle: "2022 Fall"
-      subhref: "/group_meeting/2022Fall"   
+      subhref: "/group_meeting/2022Fall"  
+    - subtitle: "2023 Spring"
+      subhref: "/group_meeting/2023Spring"  
