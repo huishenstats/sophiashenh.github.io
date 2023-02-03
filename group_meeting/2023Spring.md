@@ -14,7 +14,7 @@ Time: 3:00 - 4:00pm
 | :----   | :----------------------|:------------ |
 |  2/3   |  Hui | Research Update |
 |  2/10  |  Seong Jin |  |
-|  2/17  |  Xinji |  |
+|  2/17  |  Xinjie |  |
 |  2/24  |  Haixu |  |
 |  3/3   |  Daiqi |  |
 |  3/10  |  Seong Jin |  |
