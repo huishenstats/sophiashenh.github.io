@@ -4,7 +4,7 @@ permalink: /group_meeting/2023Spring
 title: 2023 Spring
 ---
 
-Location: 
+Location: Hanes Hall 324
 
 Time: 3:00 - 4:00pm
 
@@ -12,10 +12,10 @@ Time: 3:00 - 4:00pm
 
 | Date    | Name       | Presentation |
 | :----   | :----------------------|:------------ |
-|  2/3   |  Seong Jin |  |
-|  2/10  |  Xinjie |  |
-|  2/17  |  Haixu |  |
-|  2/24  |  Hui |  |
+|  2/3   |  Hui | Research Update |
+|  2/10  |  Seong Jin |  |
+|  2/17  |  Xinji |  |
+|  2/24  |  Haixu |  |
 |  3/3   |  Daiqi |  |
 |  3/10  |  Seong Jin |  |
 |  3/17  |  No Meeting| Spring Break |
