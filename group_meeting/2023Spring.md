@@ -22,7 +22,7 @@ Time: 3:00 - 4:00pm
 |  3/24  |  Xinjie |  |
 |  3/31  |  Haixu |  |
 |  4/7   |  No Meeting | Good Friday  |
-|  4/14  |  Seong Jin |  |
+|  4/14  |  Seong Jin | [Efficient Frameworks for Generalized Low-Rank Matrix Bandit Problems](https://openreview.net/forum?id=6V4vRCbVA3J) |
 |  4/21  |  Xinjie |  |
 |  4/28  |  Haixu  |  |
 |  5/5   |  Daiqi  |  |
