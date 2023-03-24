@@ -22,7 +22,7 @@ Time: 3:00 - 4:00pm
 |  3/24  |  Xinjie | [D-CCA: A Decomposition-Based Canonical Correlation Analysis for High-Dimensional Datasets](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1543599) |
 |  3/31  |  Haixu |  |
 |  4/7   |  No Meeting | Good Friday  |
-|  4/14  |  Seong Jin ||
-|  4/21  |  Xinjie |  |
-|  4/28  |  Haixu  |  |
-|  5/5   |  Daiqi  |  |
+|  4/14  |  No Meeting | Yufeng out of town |
+|  4/21  |  Seong Jin |  |
+|  4/28  |  Xinjie  |  |
+|  5/5   |  Haixu  |  |
