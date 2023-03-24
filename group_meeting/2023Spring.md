@@ -19,7 +19,7 @@ Time: 3:00 - 4:00pm
 |  3/3   |  Seong Jin |  [Efficient Frameworks for Generalized Low-Rank Matrix Bandit Problems](https://openreview.net/forum?id=6V4vRCbVA3J)  |
 |  3/10  |  Daiqi | Defense Practice  |
 |  3/17  |  No Meeting| Spring Break |
-|  3/24  |  Xinjie |  |
+|  3/24  |  Xinjie | [D-CCA: A Decomposition-Based Canonical Correlation Analysis for High-Dimensional Datasets](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1543599) |
 |  3/31  |  Haixu |  |
 |  4/7   |  No Meeting | Good Friday  |
 |  4/14  |  Seong Jin ||
