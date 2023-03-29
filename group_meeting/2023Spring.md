@@ -24,5 +24,5 @@ Time: 3:00 - 4:00pm
 |  4/7   |  No Meeting | Good Friday  |
 |  4/14  |  No Meeting | Yufeng out of town |
 |  4/21  |  Seong Jin |  |
-|  4/28  |  Xinjie  |  |
-|  5/5   |  Haixu  |  |
+|  4/28  |  Jose  |  |
+|  5/5   |  Hui Shen  |  |
