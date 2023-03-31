@@ -25,4 +25,4 @@ Time: 3:00 - 4:00pm
 |  4/14  |  No Meeting | Yufeng out of town |
 |  4/21  |  Seong Jin |  |
 |  4/28  |  Jose  |  |
-|  5/5   |  Hui Shen  |  |
+|  5/5   |  Hui  |  |
