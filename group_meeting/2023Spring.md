@@ -24,4 +24,4 @@ Time: 3:00 - 4:00pm
 |  4/7   |  No Meeting | Good Friday  |
 |  4/14  |  No Meeting | Yufeng out of town |
 |  4/21  |  Seong Jin | [Online Low Rank Matrix Completion](https://arxiv.org/pdf/2209.03997.pdf) |
-|  4/28  |  Daiqi  |  |
+|  4/28  |  Haixu  | Prelim Practice |
